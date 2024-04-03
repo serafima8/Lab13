@@ -1,0 +1,7 @@
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+\\Serv31\для сохранения работ\Разработтка ПМ\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
